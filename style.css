@@ -1,0 +1,23 @@
+body {
+    font-family: "Orbitron", sans-serif;
+  }
+   html {background-image: url('./pexels-cottonbro-4646214.jpg');
+   background-color: rgba(0, 0, 0, 0.82);
+   width: auto;
+   height:auto;
+   color:white }
+   a {color: rgba(157, 180, 217, 0.991);}
+   a:hover {color:greenyellow;}
+  #synopsis {display: flex;
+  flex-wrap:wrap;
+  padding:50px;
+  background-color:transparent;
+  margin:20px auto;
+  }
+  .movie{display:flex;
+  flex-wrap:wrap;
+  background-image:url('./pexels-emhopper-14769824.jpg');
+  color:white;
+  padding:50px;
+  margin:20px auto;
+  }
